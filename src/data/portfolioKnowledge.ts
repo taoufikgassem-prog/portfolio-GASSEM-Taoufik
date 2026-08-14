@@ -31,7 +31,7 @@ export const portfolioKnowledge = {
     location: 'Montigny-le-Bretonneux, France',
     publicContact: {
       phone: '+33 7 70 47 10 58',
-      linkedin: 'https://www.linkedin.com/in/taoufik-g-387964129/',
+      linkedin: 'https://www.linkedin.com/in/taoufik-gassem-387964129/',
       github: 'https://github.com/taoufikgassem-prog',
     },
   },
