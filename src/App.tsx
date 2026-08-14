@@ -1111,7 +1111,7 @@ export default function App() {
                     <button onClick={() => scrollToId('projets')} className="inline-flex items-center gap-2 px-7 py-[13px] rounded-full bg-transparent border border-white/30 text-white text-[14px] font-bold hover:bg-white hover:text-[#0A2540] transition">
                       💼 {t.hero[lang].ctaProjets}
                     </button>
-                    <a href="https://www.linkedin.com/in/taoufik-g-387964129/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 px-6 py-[13px] rounded-full bg-white text-[#0A2540] text-[14px] font-bold shadow-lg hover:bg-slate-100 transition">
+                    <a href="https://www.linkedin.com/in/taoufik-gassem-387964129/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 px-6 py-[13px] rounded-full bg-white text-[#0A2540] text-[14px] font-bold shadow-lg hover:bg-slate-100 transition">
                       <svg width="16" height="16" viewBox="0 0 24 24" fill="#0A2540"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" /></svg>
                       LinkedIn
                     </a>
@@ -1792,7 +1792,7 @@ export default function App() {
                     </span>
                     <span className="ml-auto flex-shrink-0 text-slate-400 transition group-hover:text-[#FF6B35]">→</span>
                   </a>
-                  <a href="https://www.linkedin.com/in/taoufik-g-387964129/" target="_blank" rel="noopener noreferrer" className={`group flex min-w-0 items-center gap-4 rounded-2xl border p-5 transition hover:-translate-y-0.5 hover:shadow-lg ${dark ? 'border-[#1E293B] bg-[#151E32]' : 'border-slate-200 bg-white'}`}>
+                  <a href="https://www.linkedin.com/in/taoufik-gassem-387964129/" target="_blank" rel="noopener noreferrer" className={`group flex min-w-0 items-center gap-4 rounded-2xl border p-5 transition hover:-translate-y-0.5 hover:shadow-lg ${dark ? 'border-[#1E293B] bg-[#151E32]' : 'border-slate-200 bg-white'}`}>
                     <span className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-xl bg-[#0077B5] font-bold text-white transition group-hover:scale-105">in</span>
                     <span className="min-w-0">
                       <span className={`block text-xs font-bold tracking-widest opacity-60 ${dark ? 'text-white' : 'text-slate-500'}`}>LINKEDIN</span>
